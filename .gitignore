@@ -2,6 +2,7 @@
 package.box
 httpdocs
 magento-sample-data*.tar.gz
+vendor
 
 # Numerous always-ignore extensions
 *.diff
